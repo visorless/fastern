@@ -14,4 +14,4 @@ I agree there, setting up Nginx, Gunicorn and Flask together is easier than gett
 But, recently in my professional life, I had the requirement of using Apache, so it was an interesting challenge to get this up and working.
 
 
-You can see the whole project over at https://relzy.com/farm/
+You can see the whole project over at https://seanrelzy.wordpress.com/farm/
